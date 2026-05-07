@@ -1,2 +1,13 @@
-# Criando-HTML
-Criando página simples HTML
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Criando página simples</title>
+</head>
+<body>
+<h1>Bem-vindo à minha página simples</h1>
+<p>Esta é uma página HTML simples.</p>
+<p><i>Este texto está no formato itálico</i>.</p>
+<p>Podemos modificar o conteúdo!</p>
+</body>
+</html>
